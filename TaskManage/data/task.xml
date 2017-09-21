@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tasks>
+  <task>
+    <id>1</id>
+    <taskcontent>111</taskcontent>
+    <keeper>张伟</keeper>
+    <taskstatus>0</taskstatus>
+    <createdate>2017/07/08 00:00:00</createdate>
+    <completedate></completedate>
+  </task>
+  <task>
+    <id>2</id>
+    <taskcontent>222</taskcontent>
+    <keeper>张伟</keeper>
+    <taskstatus>0</taskstatus>
+    <createdate>2017/07/08 00:00:00</createdate>
+    <completedate></completedate>
+  </task>
+</tasks>

@@ -1,0 +1,11 @@
+E:\系统源码\VS2013\TaskInfo\TaskManage\bin\Debug\TaskManage.exe.config
+E:\系统源码\VS2013\TaskInfo\TaskManage\bin\Debug\TaskManage.exe
+E:\系统源码\VS2013\TaskInfo\TaskManage\bin\Debug\TaskManage.pdb
+E:\系统源码\VS2013\TaskInfo\TaskManage\obj\Debug\TaskManage.Properties.Resources.resources
+E:\系统源码\VS2013\TaskInfo\TaskManage\obj\Debug\TaskManage.csproj.GenerateResource.Cache
+E:\系统源码\VS2013\TaskInfo\TaskManage\obj\Debug\TaskManage.exe
+E:\系统源码\VS2013\TaskInfo\TaskManage\obj\Debug\TaskManage.pdb
+E:\系统源码\VS2013\TaskInfo\TaskManage\obj\Debug\TaskManage.frmMain.resources
+E:\系统源码\VS2013\TaskInfo\TaskManage\bin\Debug\data\task.xml
+E:\系统源码\VS2013\TaskInfo\TaskManage\obj\Debug\TaskManage.frmAdd.resources
+E:\系统源码\VS2013\TaskInfo\TaskManage\obj\Debug\TaskManage.csprojResolveAssemblyReference.cache
